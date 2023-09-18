@@ -6,6 +6,8 @@ It consists of two files "run.py" and "functions.py".
 To run a series of experiments, open run.py and input the parameters onto the run() function. You can easily run several series of experiments with different parameters by calling multiple instances of run().
 The file functions.py is where the simulations take place.
 
+The file functions.py is thoroughly commented for a good understanding of what most lines do.
+
 A quick explanation on the parameters (although best is to check the full document on the MSc Thesis):
 | Parameter  | Explanation |
 | ------------- | ------------- |
